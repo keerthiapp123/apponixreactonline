@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/aponixreactonline/static/css/main.94d07cd8.css",
-    "main.js": "/aponixreactonline/static/js/main.e17f2ada.js",
-    "static/js/787.0dc48e5a.chunk.js": "/aponixreactonline/static/js/787.0dc48e5a.chunk.js",
-    "static/media/1.jpg": "/aponixreactonline/static/media/1.f04f790cf24f68a5ef0c.jpg",
-    "static/media/4.jpg": "/aponixreactonline/static/media/4.0d6e844a15b7a593724c.jpg",
-    "static/media/3.jpg": "/aponixreactonline/static/media/3.83b424173eae927a54ba.jpg",
-    "static/media/2.jpg": "/aponixreactonline/static/media/2.92eac282754d7f2dde9a.jpg",
-    "index.html": "/aponixreactonline/index.html",
-    "main.94d07cd8.css.map": "/aponixreactonline/static/css/main.94d07cd8.css.map",
-    "main.e17f2ada.js.map": "/aponixreactonline/static/js/main.e17f2ada.js.map",
-    "787.0dc48e5a.chunk.js.map": "/aponixreactonline/static/js/787.0dc48e5a.chunk.js.map"
+    "main.css": "/apponixreactonline/static/css/main.94d07cd8.css",
+    "main.js": "/apponixreactonline/static/js/main.8e31c07f.js",
+    "static/js/787.c4a8deda.chunk.js": "/apponixreactonline/static/js/787.c4a8deda.chunk.js",
+    "static/media/1.jpg": "/apponixreactonline/static/media/1.f04f790cf24f68a5ef0c.jpg",
+    "static/media/4.jpg": "/apponixreactonline/static/media/4.0d6e844a15b7a593724c.jpg",
+    "static/media/3.jpg": "/apponixreactonline/static/media/3.83b424173eae927a54ba.jpg",
+    "static/media/2.jpg": "/apponixreactonline/static/media/2.92eac282754d7f2dde9a.jpg",
+    "index.html": "/apponixreactonline/index.html",
+    "main.94d07cd8.css.map": "/apponixreactonline/static/css/main.94d07cd8.css.map",
+    "main.8e31c07f.js.map": "/apponixreactonline/static/js/main.8e31c07f.js.map",
+    "787.c4a8deda.chunk.js.map": "/apponixreactonline/static/js/787.c4a8deda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d07cd8.css",
-    "static/js/main.e17f2ada.js"
+    "static/js/main.8e31c07f.js"
   ]
 }
